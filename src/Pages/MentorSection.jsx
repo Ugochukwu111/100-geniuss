@@ -1,4 +1,4 @@
-import frontendDeveloperImage from "@/assets/mentors/frontend-developer.jpeg";
+import frontendDeveloperImage from "@/assets/mentors/frontend-developer.webp";
 import dataAnalystImage from "@/assets/mentors/data-analyst.webp";
 import graphicDesignerImage from "@/assets/mentors/graphic-designer.webp";
 
